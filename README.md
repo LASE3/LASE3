@@ -20,16 +20,6 @@ I'm a Computer Science undergrad who somehow convinced Flutter, PHP, and a small
 
 ---
 
-## 💼 Experience
-
-**Customer Service Specialist — Crystel Company**
-- Provided live chat support and somehow stayed calm while doing it
-- Resolved technical and service-related inquiries (professionally translated: "turned it off and on again, but nicely")
-- Maintained professional communication and customer satisfaction
-- Thrived in a fast-paced environment while hitting response targets — basically speedrunning customer service
-
----
-
 ## 🚀 Featured Projects
 
 ### ⭐ Helper First Aid Dashboard *(my personal favorite — I put my whole heart, and several late nights, into this one)*
@@ -40,7 +30,7 @@ I'm a Computer Science undergrad who somehow convinced Flutter, PHP, and a small
 - Implemented authentication and database integration
 - Built incident-sync APIs between the mobile app and dashboard, so nothing gets lost in translation
 
-🔗 **[Check it out here](https://github.com/LASE3/Helper-First-Aid-PHP-Dashboard-.git)**
+🔗 **[Repo](https://github.com/LASE3/Helper-First-Aid-PHP-Dashboard-.git)**
 
 ### Helper First Aid — Graduation Project
 `Flutter` `Dart` `SQLite` `PHP` `MySQL` `REST API` `Git`
@@ -62,15 +52,6 @@ I'm a Computer Science undergrad who somehow convinced Flutter, PHP, and a small
 **Frameworks & Tools:** ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
 
 **Also comfortable with:** ASP.NET MVC · Flutter · REST API Development · Database Design · Data Structures & Algorithms · OOP · Software Debugging · Data preprocessing & Model training (Python-based)
-
----
-
-## 🎓 Certifications
-
-- Flutter Mobile Development Course
-- Cisco Networking Academy — Python Essentials 1 & 2
-- Cisco Networking Academy — HTML & CSS Essentials
-- Cisco Networking Academy — Data Science Essentials with Python
 
 ---
 
@@ -119,7 +100,7 @@ Strong communication · Teamwork · Leadership · Adaptability · Problem-solvin
 
 <!-- Add your Buy Me a Coffee and PayPal links below -->
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](ADD_YOUR_BUY_ME_A_COFFEE_LINK_HERE)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](ADD_YOUR_PAYPAL_LINK_HERE)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/kiith934)
 
 ---
 
