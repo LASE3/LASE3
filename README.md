@@ -99,7 +99,7 @@ Strong communication · Teamwork · Leadership · Adaptability · Problem-solvin
 ## ☕ Support Me
 
 <!-- Add your Buy Me a Coffee and PayPal links below -->
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](ADD_YOUR_BUY_ME_A_COFFEE_LINK_HERE)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](buymeacoffee.com/lase3)
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/kiith934)
 
 ---
